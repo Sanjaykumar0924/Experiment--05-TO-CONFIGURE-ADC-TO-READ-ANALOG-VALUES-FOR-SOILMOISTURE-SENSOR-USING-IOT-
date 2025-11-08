@@ -437,6 +437,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ```
+## Output screen shot of soil moisture :
+
+
+![WhatsApp Image 2025-10-17 at 10 12 24_1cead1d7](https://github.com/user-attachments/assets/4a939e35-93cd-410e-98f2-3436783cc94c)
 
 ## Output screen shots on serial monitor   :
  
